@@ -277,6 +277,7 @@ Public test endpoints:
 > Documentation, guides, standards, and learning materials for Model Context Protocol and MCP server development.
 
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/) — Official MCP specification
+- [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Tutorials
 
