@@ -183,6 +183,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ## Testing Tools 
 > Tools for testing MCP servers and clients 
 
+- [agent-qa](https://github.com/vostride/agent-qa) 📇 - Local MCP server for authoring, running, and triaging natural-language web and mobile tests, with persistent test memory and self-healing flows.
 - [Epistates/TurboMCPStudio](https://github.com/Epistates/TurboMCPStudio) 🦀 - Full Featured MCP Suite, testing and debugging.
 - [1Utkarsh1/mcp-stdio-guard](https://github.com/1Utkarsh1/mcp-stdio-guard) 📇 - CLI and CI guard for MCP stdio servers that validates initialize handshakes, `tools/list`, stdout JSON-RPC hygiene, crashes, repeat runs, and risky stdout writes.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
