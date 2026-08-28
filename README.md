@@ -233,6 +233,7 @@ Public test endpoints:
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) 🌳 - Self-hosted MCP Registry and Proxy for ai agents
 - [multi-mcp](https://github.com/kfirtoledo/multi-mcp) 🐍 - A flexible and dynamic Multi-MCP Proxy Server that acts as a single MCP server while connecting to and routing between multiple backend MCP servers over STDIO or SSE. Deployable on Kubernetes by exposing a single port, and supports dynamic addition and removal of MCP servers at runtime.
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – An openAI middleware proxy to use MCP in any existing openAI compatible client
+- [SandBase CLI](https://github.com/sandbaseai/cli) 📇 - Open-source CLI and MCP bridge exposing an OpenAI-compatible endpoint for 2,000+ AI models, with usage-based billing and a free plan
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates multiple MCP resource servers through a single HTTP server
 - [aakashh242/remote-mcp-adapter](https://github.com/aakashh242/remote-mcp-adapter) 🐍 - An MCP gateway that fixes the "remote filesystem" problem: client sent files become staged uploads, server generated files become fetchable MCP resources.
