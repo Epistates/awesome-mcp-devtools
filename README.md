@@ -119,6 +119,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK
 - [poem-web/poem#poem-mcpserver](https://github.com/poem-web/poem/tree/master/poem-mcpserver) 🦀 - MCP Server implementation for Poem
 - [markndg/mcp-probe](https://github.com/markndg/mcp-probe) 🦀 - Rust CLI that validates conformance, schema correctness, and capability negotiation against any MCP server.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ### Kotlin
 
