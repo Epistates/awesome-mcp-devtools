@@ -281,6 +281,7 @@ Public test endpoints:
 
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/) — Official MCP specification
 - [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+- [SkillHawk](https://github.com/Berserk-hub150/skillhawk) - Static scanner for Agent Skills, SKILL.md and MCP configs; flags risky instructions without execution.
 
 ## Tutorials
 
