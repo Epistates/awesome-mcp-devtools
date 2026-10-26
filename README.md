@@ -44,6 +44,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 ## Community
 
 * [r/modelcontextprotocol Reddit](https://www.reddit.com/r/modelcontextprotocol)
+* [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## Legend
 
