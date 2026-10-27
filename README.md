@@ -243,6 +243,7 @@ Public test endpoints:
 
 - [bradsward/greenlight](https://github.com/bradsward/greenlight) 🐍 - Transparent stdio/HTTP proxy that logs every MCP message to JSONL, with a colorized live trace viewer and a stats command with a CI-usable exit code.
 - [Epistates/TurboMCPStudio](https://github.com/Epistates/TurboMCPStudio) 🦀 - Full Featured MCP Suite
+- [getremcp/docsy-plugin](https://github.com/getremcp/docsy-plugin) 📇 - Read-only hosted OAuth MCP that retrieves versioned public SDK and framework documentation with source links; the public repository contains a plugin, not the hosted server source.
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
 - [f/MCPTools](https://github.com/f/mcptools) 🏎️ - A command-line development tool for inspecting and interacting with MCP servers
