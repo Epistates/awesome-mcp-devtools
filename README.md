@@ -195,6 +195,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [greynewell/mcpbr](https://github.com/greynewell/mcpbr) 🐍 - Benchmark runner for evaluating MCP server performance and agentic capabilities.
 - [realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor) 📇 - Zero-config CLI that auto-discovers MCP configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop. Tests connections via JSON-RPC handshake, audits for security issues, and benchmarks latency.
 - [markndg/mcp-probe](https://github.com/markndg/mcp-probe) 🦀 - Rust CLI that validates conformance, schema correctness, and capability negotiation against any MCP server.
+- [isokron-ai/mcp-writecheck-action](https://github.com/isokron-ai/mcp-writecheck-action) 📇 - GitHub Action that runs mcp-writecheck against an MCP server's write tools in CI and reports verdicts per requirement ID of the MCP Write-Safety Requirements (MWS 0.9) and per write path. Ships two Agent Skills for building and calling write tools.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
