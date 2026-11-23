@@ -246,6 +246,7 @@ Public test endpoints:
 
 ### Development Tools
 
+- [D'AUBE // BRIDGE²](https://github.com/daubesonntag-dotcom/daube-agent-bridge) 🐍 - Universal AI skill compiler and MCP bridge: compile one portable YAML capability spec into MCP plus OpenAI/Codex, Claude, Gemini, DeepSeek, Meta/Llama, and browser integration artifacts. Published in the official MCP Registry with reproducible MCPB releases.
 - [Epistates/TurboMCPStudio](https://github.com/Epistates/TurboMCPStudio) 🦀 - Full Featured MCP Suite
 - [bradsward/greenlight](https://github.com/bradsward/greenlight) 🐍 - Transparent stdio/HTTP proxy that logs every MCP message to JSONL, with a colorized live trace viewer and a stats command with a CI-usable exit code.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) 📇 - Records agent-provider traffic into a local trace library and serves it over MCP (six read-only tools: list, show, checkpoints, graph, replay, compare) so a previous run can be inspected, diffed, and replayed offline.
