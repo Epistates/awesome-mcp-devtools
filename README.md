@@ -197,6 +197,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor) 📇 - Zero-config CLI that auto-discovers MCP configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop. Tests connections via JSON-RPC handshake, audits for security issues, and benchmarks latency.
 - [markndg/mcp-probe](https://github.com/markndg/mcp-probe) 🦀 - Rust CLI that validates conformance, schema correctness, and capability negotiation against any MCP server.
 - [isokron-ai/mcp-writecheck-action](https://github.com/isokron-ai/mcp-writecheck-action) 📇 - GitHub Action that runs mcp-writecheck against an MCP server's write tools in CI and reports verdicts per requirement ID of the MCP Write-Safety Requirements (MWS 0.9) and per write path. Ships two Agent Skills for building and calling write tools.
+- [Frank-Masciopinto/ironheights](https://github.com/Frank-Masciopinto/ironheights) 📇 - Rule-based static scanner for agent skills (SKILL.md) and MCP configs: flags `curl|sh` or unpinned `npx` launches, literal secrets in `env` and broad filesystem roots, with file/line findings, SARIF and a GitHub Action. Also runs as a local MCP server (`npx -y ironheights mcp`) that checks a skill before install and pins MCP tool descriptions to flag drift.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
