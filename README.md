@@ -249,7 +249,6 @@ Public test endpoints:
 - [Epistates/TurboMCPStudio](https://github.com/Epistates/TurboMCPStudio) 🦀 - Full Featured MCP Suite
 - [bradsward/greenlight](https://github.com/bradsward/greenlight) 🐍 - Transparent stdio/HTTP proxy that logs every MCP message to JSONL, with a colorized live trace viewer and a stats command with a CI-usable exit code.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) 📇 - Records agent-provider traffic into a local trace library and serves it over MCP (six read-only tools: list, show, checkpoints, graph, replay, compare) so a previous run can be inspected, diffed, and replayed offline.
-- [daubesonntag-dotcom/daube-agent-bridge](https://github.com/daubesonntag-dotcom/daube-agent-bridge) 🐍 - Universal AI skill compiler and MCP bridge: compile one portable YAML capability spec into MCP plus OpenAI/Codex, Claude, Gemini, DeepSeek, Meta/Llama, and browser integration artifacts. Published in the official MCP Registry with reproducible MCPB releases.
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
 - [f/MCPTools](https://github.com/f/mcptools) 🏎️ - A command-line development tool for inspecting and interacting with MCP servers
