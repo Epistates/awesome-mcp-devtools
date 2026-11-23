@@ -192,6 +192,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [loopwork-ai/Companion](https://github.com/loopwork-ai/Companion) - Companion is a utility for testing and debugging your MCP servers on macOS, iOS, and visionOS.
 - [garagon/aguara](https://github.com/garagon/aguara) 🏎️ - Static security scanner for MCP servers and AI agent skills. 173 detection rules, prompt injection, credential leaks, taint tracking. Scans configs and tool descriptions before deployment.
 - [DSHCorrectover/correctover-scan](https://github.com/DSHCorrectover/correctover-scan) 📇 - Zero-config CLI security scanner for MCP configs across Claude Desktop, Cursor, VS Code, and generic mcp.json. Checks credential exposure, SSRF protection, auth and transport encryption, with JSON/SARIF output for CI. Runs via `npx correctover-scan`.
+- [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk) 📇 - Static scanner for Agent Skills, SKILL.md and MCP configs; flags risky instructions without execution.
 - [greynewell/mcpbr](https://github.com/greynewell/mcpbr) 🐍 - Benchmark runner for evaluating MCP server performance and agentic capabilities.
 - [realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor) 📇 - Zero-config CLI that auto-discovers MCP configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop. Tests connections via JSON-RPC handshake, audits for security issues, and benchmarks latency.
 - [markndg/mcp-probe](https://github.com/markndg/mcp-probe) 🦀 - Rust CLI that validates conformance, schema correctness, and capability negotiation against any MCP server.
@@ -237,9 +238,9 @@ Public test endpoints:
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) 🏎️ - Self-hosted AI gateway with MCP support, multi-provider routing, load balancing, virtual keys, and request logging.
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) 🌳 - Self-hosted MCP Registry and Proxy for ai agents
 - [multi-mcp](https://github.com/kfirtoledo/multi-mcp) 🐍 - A flexible and dynamic Multi-MCP Proxy Server that acts as a single MCP server while connecting to and routing between multiple backend MCP servers over STDIO or SSE. Deployable on Kubernetes by exposing a single port, and supports dynamic addition and removal of MCP servers at runtime.
+- [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) 📇 - Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – An openAI middleware proxy to use MCP in any existing openAI compatible client
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
-- [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) 📇 - Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates multiple MCP resource servers through a single HTTP server
 - [aakashh242/remote-mcp-adapter](https://github.com/aakashh242/remote-mcp-adapter) 🐍 - An MCP gateway that fixes the "remote filesystem" problem: client sent files become staged uploads, server generated files become fetchable MCP resources.
 
@@ -286,7 +287,6 @@ Public test endpoints:
 
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/) — Official MCP specification
 - [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
-- [SkillHawk](https://github.com/Berserk-hub150/skillhawk) - Static scanner for Agent Skills, SKILL.md and MCP configs; flags risky instructions without execution.
 
 ## Tutorials
 
